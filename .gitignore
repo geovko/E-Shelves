@@ -1,3 +1,15 @@
 node_modules
 .env
 .DS_Store
+
+# TO-DO:
+# - Add in all the routes 0
+#   - category-routes.js 0
+#   - product-routes.js 0
+#   - tag-routes.js 0
+# - Complete the models 1
+#   - Category.js 1
+#   - Product.js 1
+#   - ProductTag.js 1
+#   - Tag.js 1
+#   - index.js 1
