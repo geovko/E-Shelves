@@ -8,31 +8,21 @@
 
 ## Description
 
-In a fast-paced lifestyle where one is flooded with many different situations and tasks to complete, keeping track of all your thoughts and tasks can be a challenge. This project aims to provide the user with a note-taking webpage or a second brain, if you will, to help them keep track of everything that pops up.
+Despite e-commerce playing a crucial role in making the shopping process easier and more efficient for the user, managing inventory and organizing products still continue to be aspects of commerce that companies still have to consider. This project aims to facilitate the process of managing inventory and organizing products by providing an online database of products that the user can interact with. The development of this project was a bit more straightforward due to the guidance of the starter code creators, but eventually making all the parts function together did take time and seemingly endless debugging.
 
 ## Usage
 
 Access the Walk-Through video through the link provided below!
 
-[E-Shelves: Walkthrough Video](https://drive.google.com/file/d/1iBwiJuOzPYU1LMZVqHv-mk1qU0aKsy4A/view)
+[E-Shelves: Walkthrough Video](https://drive.google.com/file/d/1lroAbfFgYV8dqkRNqti0Py5G-QYjJU9d/view)
 
 _OR_ Copy this link to paste into a browser.
 
 ```md
-https://drive.google.com/file/d/1iBwiJuOzPYU1LMZVqHv-mk1qU0aKsy4A/view
+https://drive.google.com/file/d/1lroAbfFgYV8dqkRNqti0Py5G-QYjJU9d/view
 ```
 
-![screenshot of Website's starting page](images/note-taker-starting.png)
-
-Once you click on the provided link, the webpage shown above will appear (albeit slowly). Press the 'Get Started' button in the middle to proceed to the notes page.
-
-![screenshot of Website's main page](images/note-taker-notes.png)
-
-After pressing the button, the page shown above will appear. Click on the areas labled 'Note Title' and 'Note Text' to input the title and text of the desired note to be inputted.
-
-![screenshot of Website, close-up of the functions](images/note-taker-input.png)
-
-Once the text areas are filled, the 'Clear' and 'Save' options will appear. 'Clear' will empty the text areas, while 'Save' will save the inputted texts and generate it on the left side of the screen. The user can then click on the small red trash can icon on the left (adjacent to the note they wish to delete) to remove that specific note.
+When first beginning to use the code, make sure to enter in 'npm install' to install all the necessary packages, 'npm run seed' to create the database (and fill it with example category, product, and tag data), and 'npm start' to run the server. As can be see from the Walkthrough Video, Insomnia has been used to display the functionality of the GET (all items), GET (a single item), POST, PUT, and DELETE requests.
 
 ## Credits
 
