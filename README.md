@@ -14,12 +14,12 @@ Despite e-commerce playing a crucial role in making the shopping process easier 
 
 Access the Walk-Through video through the link provided below!
 
-[E-Shelves: Walkthrough Video](https://drive.google.com/file/d/1lroAbfFgYV8dqkRNqti0Py5G-QYjJU9d/view)
+[E-Shelves: Walkthrough Video](https://drive.google.com/file/d/1iOrLct1F9A1s4ym1SoG9SWEKLuPNkQJb/view?usp=sharing)
 
 _OR_ Copy this link to paste into a browser.
 
 ```md
-https://drive.google.com/file/d/1lroAbfFgYV8dqkRNqti0Py5G-QYjJU9d/view
+https://drive.google.com/file/d/1iOrLct1F9A1s4ym1SoG9SWEKLuPNkQJb/view?usp=sharing
 ```
 
 When first beginning to use the code, make sure to enter in 'npm install' to install all the necessary packages, 'npm run seed' to create the database (and fill it with example category, product, and tag data), and 'npm start' to run the server. As can be see from the Walkthrough Video, Insomnia has been used to display the functionality of the GET (all items), GET (a single item), POST, PUT, and DELETE requests.
